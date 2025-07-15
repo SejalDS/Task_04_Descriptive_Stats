@@ -54,21 +54,21 @@ Each dataset contains advertising or posting data, including impressions, intera
 
 ### 🟦 Facebook Ads
 - **Estimated Spend** varies widely: most ads spent under $100, while some exceeded $1,000.
-- **Impressions** ranged from a few hundred to several million — suggesting varying targeting scopes.
+- **Impressions** ranged from a few hundred to several million suggesting varying targeting scopes.
 - Most ads used **Facebook** and **Instagram** platforms.
 - The most common **currency** was USD, suggesting primary targeting in the U.S.
 
 ### 🟩 Facebook Posts
 - **Video** and **Photo** post types had the **highest interaction counts**.
 - The **U.S.** is the dominant source for political page admins.
-- **Interaction totals** ranged significantly — some posts achieved over 10,000 engagements.
+- **Interaction totals** ranged significantly some posts achieved over 10,000 engagements.
 - Common post sources were consistent with official campaign activity.
 
 ### 🟦 Twitter Posts
 - **Like**, **Retweet**, and **View** counts showed a long-tail distribution.
 - Most tweets originated from **Twitter Web App**, **iPhone**, and tools like **Hootsuite**.
 - Content was predominantly in **English**, aligned with U.S.-focused politics.
-- Engagement was highly inconsistent — indicating a mix of viral vs low-performing tweets.
+- Engagement was highly inconsistent indicating a mix of viral vs low-performing tweets.
 
 ---
 
