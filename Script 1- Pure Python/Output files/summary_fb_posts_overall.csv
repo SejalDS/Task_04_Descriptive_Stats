@@ -1,0 +1,250 @@
+overall,Facebook_Id,count,19009
+overall,Facebook_Id,unique_count,21
+overall,Facebook_Id,most_frequent,"('32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064', 9013)"
+overall,post_id,count,19009
+overall,post_id,unique_count,19009
+overall,post_id,most_frequent,"('8570b69695e00d8f06b12398ed525497e1712b5369c6fc2138fe98f69811c138', 1)"
+overall,Page Category,count,16537
+overall,Page Category,unique_count,6
+overall,Page Category,most_frequent,"('PERSON', 9453)"
+overall,Page Admin Top Country,count,16280
+overall,Page Admin Top Country,unique_count,1
+overall,Page Admin Top Country,most_frequent,"('US', 16280)"
+overall,Post Created,count,19009
+overall,Post Created,unique_count,18951
+overall,Post Created,most_frequent,"('2023-11-14 11:11:44 EST', 2)"
+overall,Post Created Date,count,19009
+overall,Post Created Date,unique_count,425
+overall,Post Created Date,most_frequent,"('2024-10-31', 103)"
+overall,Post Created Time,count,19009
+overall,Post Created Time,unique_count,16102
+overall,Post Created Time,most_frequent,"('19:42:00', 7)"
+overall,Type,count,16544
+overall,Type,unique_count,9
+overall,Type,most_frequent,"('Link', 7404)"
+overall,Total Interactions,count,14398
+overall,Total Interactions,mean,2210.15
+overall,Total Interactions,min,0.0
+overall,Total Interactions,max,470087.0
+overall,Total Interactions,std_dev,13066.17
+overall,Likes,count,19009
+overall,Likes,mean,2377.7
+overall,Likes,min,0.0
+overall,Likes,max,351979.0
+overall,Likes,std_dev,11253.17
+overall,Comments,count,19009
+overall,Comments,mean,901.58
+overall,Comments,min,0.0
+overall,Comments,max,93872.0
+overall,Comments,std_dev,3681.88
+overall,Shares,count,19009
+overall,Shares,mean,320.54
+overall,Shares,min,0.0
+overall,Shares,max,76150.0
+overall,Shares,std_dev,1722.11
+overall,Love,count,19009
+overall,Love,mean,413.88
+overall,Love,min,0.0
+overall,Love,max,244482.0
+overall,Love,std_dev,3730.84
+overall,Wow,count,19009
+overall,Wow,mean,5.87
+overall,Wow,min,0.0
+overall,Wow,max,4345.0
+overall,Wow,std_dev,52.95
+overall,Haha,count,19009
+overall,Haha,mean,105.72
+overall,Haha,min,0.0
+overall,Haha,max,99276.0
+overall,Haha,std_dev,942.01
+overall,Sad,count,19009
+overall,Sad,mean,10.17
+overall,Sad,min,0.0
+overall,Sad,max,56111.0
+overall,Sad,std_dev,418.31
+overall,Angry,count,19009
+overall,Angry,mean,20.06
+overall,Angry,min,0.0
+overall,Angry,max,11814.0
+overall,Angry,std_dev,156.02
+overall,Care,count,19009
+overall,Care,mean,34.93
+overall,Care,min,0.0
+overall,Care,max,85236.0
+overall,Care,std_dev,790.08
+overall,Video Share Status,count,3271
+overall,Video Share Status,unique_count,3
+overall,Video Share Status,most_frequent,"('owned', 3100)"
+overall,Is Video Owner?,count,16544
+overall,Is Video Owner?,unique_count,3
+overall,Is Video Owner?,most_frequent,"('-', 13280)"
+overall,Post Views,count,16544
+overall,Post Views,mean,6485.06
+overall,Post Views,min,0.0
+overall,Post Views,max,4276477.0
+overall,Post Views,std_dev,90390.23
+overall,Total Views,count,16544
+overall,Total Views,mean,7461.85
+overall,Total Views,min,0.0
+overall,Total Views,max,4462155.0
+overall,Total Views,std_dev,95973.38
+overall,Total Views For All Crossposts,count,16544
+overall,Total Views For All Crossposts,mean,3555.94
+overall,Total Views For All Crossposts,min,0.0
+overall,Total Views For All Crossposts,max,4499458.0
+overall,Total Views For All Crossposts,std_dev,88091.39
+overall,Video Length,count,3271
+overall,Video Length,unique_count,774
+overall,Video Length,most_frequent,"('00:00:30', 83)"
+overall,Sponsor Id,count,0
+overall,Sponsor Id,unique_count,0
+overall,Sponsor Id,most_frequent,
+overall,Sponsor Name,count,0
+overall,Sponsor Name,unique_count,0
+overall,Sponsor Name,most_frequent,
+overall,Sponsor Category,count,0
+overall,Sponsor Category,unique_count,0
+overall,Sponsor Category,most_frequent,
+overall,Overperforming Score,count,16544
+overall,Overperforming Score,mean,-2.74
+overall,Overperforming Score,min,-198.75
+overall,Overperforming Score,max,246.78
+overall,Overperforming Score,std_dev,7.81
+overall,illuminating_scored_messageelection_integrity_Truth_illuminating,count,0
+overall,illuminating_scored_messageelection_integrity_Truth_illuminating,unique_count,0
+overall,illuminating_scored_messageelection_integrity_Truth_illuminating,most_frequent,
+overall,advocacy_msg_type_illuminating,count,19009
+overall,advocacy_msg_type_illuminating,mean,0.55
+overall,advocacy_msg_type_illuminating,min,0.0
+overall,advocacy_msg_type_illuminating,max,1.0
+overall,advocacy_msg_type_illuminating,std_dev,0.5
+overall,issue_msg_type_illuminating,count,19009
+overall,issue_msg_type_illuminating,mean,0.46
+overall,issue_msg_type_illuminating,min,0.0
+overall,issue_msg_type_illuminating,max,1.0
+overall,issue_msg_type_illuminating,std_dev,0.5
+overall,attack_msg_type_illuminating,count,19009
+overall,attack_msg_type_illuminating,mean,0.22
+overall,attack_msg_type_illuminating,min,0.0
+overall,attack_msg_type_illuminating,max,1.0
+overall,attack_msg_type_illuminating,std_dev,0.41
+overall,image_msg_type_illuminating,count,19009
+overall,image_msg_type_illuminating,mean,0.15
+overall,image_msg_type_illuminating,min,0.0
+overall,image_msg_type_illuminating,max,1.0
+overall,image_msg_type_illuminating,std_dev,0.36
+overall,cta_msg_type_illuminating,count,19009
+overall,cta_msg_type_illuminating,mean,0.13
+overall,cta_msg_type_illuminating,min,0.0
+overall,cta_msg_type_illuminating,max,1.0
+overall,cta_msg_type_illuminating,std_dev,0.34
+overall,engagement_cta_subtype_illuminating,count,19009
+overall,engagement_cta_subtype_illuminating,mean,0.09
+overall,engagement_cta_subtype_illuminating,min,0.0
+overall,engagement_cta_subtype_illuminating,max,1.0
+overall,engagement_cta_subtype_illuminating,std_dev,0.29
+overall,fundraising_cta_subtype_illuminating,count,19009
+overall,fundraising_cta_subtype_illuminating,mean,0.02
+overall,fundraising_cta_subtype_illuminating,min,0.0
+overall,fundraising_cta_subtype_illuminating,max,1.0
+overall,fundraising_cta_subtype_illuminating,std_dev,0.13
+overall,voting_cta_subtype_illuminating,count,19009
+overall,voting_cta_subtype_illuminating,mean,0.02
+overall,voting_cta_subtype_illuminating,min,0.0
+overall,voting_cta_subtype_illuminating,max,1.0
+overall,voting_cta_subtype_illuminating,std_dev,0.15
+overall,covid_topic_illuminating,count,19009
+overall,covid_topic_illuminating,mean,0.05
+overall,covid_topic_illuminating,min,0.0
+overall,covid_topic_illuminating,max,1.0
+overall,covid_topic_illuminating,std_dev,0.22
+overall,economy_topic_illuminating,count,19009
+overall,economy_topic_illuminating,mean,0.09
+overall,economy_topic_illuminating,min,0.0
+overall,economy_topic_illuminating,max,1.0
+overall,economy_topic_illuminating,std_dev,0.29
+overall,education_topic_illuminating,count,19009
+overall,education_topic_illuminating,mean,0.01
+overall,education_topic_illuminating,min,0.0
+overall,education_topic_illuminating,max,1.0
+overall,education_topic_illuminating,std_dev,0.12
+overall,environment_topic_illuminating,count,19009
+overall,environment_topic_illuminating,mean,0.02
+overall,environment_topic_illuminating,min,0.0
+overall,environment_topic_illuminating,max,1.0
+overall,environment_topic_illuminating,std_dev,0.15
+overall,foreign_policy_topic_illuminating,count,19009
+overall,foreign_policy_topic_illuminating,mean,0.04
+overall,foreign_policy_topic_illuminating,min,0.0
+overall,foreign_policy_topic_illuminating,max,1.0
+overall,foreign_policy_topic_illuminating,std_dev,0.19
+overall,governance_topic_illuminating,count,19009
+overall,governance_topic_illuminating,mean,0.03
+overall,governance_topic_illuminating,min,0.0
+overall,governance_topic_illuminating,max,1.0
+overall,governance_topic_illuminating,std_dev,0.17
+overall,health_topic_illuminating,count,19009
+overall,health_topic_illuminating,mean,0.05
+overall,health_topic_illuminating,min,0.0
+overall,health_topic_illuminating,max,1.0
+overall,health_topic_illuminating,std_dev,0.22
+overall,immigration_topic_illuminating,count,19009
+overall,immigration_topic_illuminating,mean,0.04
+overall,immigration_topic_illuminating,min,0.0
+overall,immigration_topic_illuminating,max,1.0
+overall,immigration_topic_illuminating,std_dev,0.2
+overall,lgbtq_issues_topic_illuminating,count,19009
+overall,lgbtq_issues_topic_illuminating,mean,0.0
+overall,lgbtq_issues_topic_illuminating,min,0.0
+overall,lgbtq_issues_topic_illuminating,max,1.0
+overall,lgbtq_issues_topic_illuminating,std_dev,0.06
+overall,military_topic_illuminating,count,19009
+overall,military_topic_illuminating,mean,0.01
+overall,military_topic_illuminating,min,0.0
+overall,military_topic_illuminating,max,1.0
+overall,military_topic_illuminating,std_dev,0.07
+overall,race_and_ethnicity_topic_illuminating,count,19009
+overall,race_and_ethnicity_topic_illuminating,mean,0.02
+overall,race_and_ethnicity_topic_illuminating,min,0.0
+overall,race_and_ethnicity_topic_illuminating,max,1.0
+overall,race_and_ethnicity_topic_illuminating,std_dev,0.15
+overall,safety_topic_illuminating,count,19009
+overall,safety_topic_illuminating,mean,0.03
+overall,safety_topic_illuminating,min,0.0
+overall,safety_topic_illuminating,max,1.0
+overall,safety_topic_illuminating,std_dev,0.18
+overall,social_and_cultural_topic_illuminating,count,19009
+overall,social_and_cultural_topic_illuminating,mean,0.06
+overall,social_and_cultural_topic_illuminating,min,0.0
+overall,social_and_cultural_topic_illuminating,max,1.0
+overall,social_and_cultural_topic_illuminating,std_dev,0.24
+overall,technology_and_privacy_topic_illuminating,count,19009
+overall,technology_and_privacy_topic_illuminating,mean,0.0
+overall,technology_and_privacy_topic_illuminating,min,0.0
+overall,technology_and_privacy_topic_illuminating,max,1.0
+overall,technology_and_privacy_topic_illuminating,std_dev,0.05
+overall,womens_issue_topic_illuminating,count,19009
+overall,womens_issue_topic_illuminating,mean,0.03
+overall,womens_issue_topic_illuminating,min,0.0
+overall,womens_issue_topic_illuminating,max,1.0
+overall,womens_issue_topic_illuminating,std_dev,0.16
+overall,incivility_illuminating,count,19009
+overall,incivility_illuminating,mean,0.13
+overall,incivility_illuminating,min,0.0
+overall,incivility_illuminating,max,1.0
+overall,incivility_illuminating,std_dev,0.33
+overall,scam_illuminating,count,18060
+overall,scam_illuminating,mean,0.02
+overall,scam_illuminating,min,0.0
+overall,scam_illuminating,max,1.0
+overall,scam_illuminating,std_dev,0.14
+overall,freefair_illuminating,count,19009
+overall,freefair_illuminating,mean,0.0
+overall,freefair_illuminating,min,0.0
+overall,freefair_illuminating,max,1.0
+overall,freefair_illuminating,std_dev,0.05
+overall,fraud_illuminating,count,19009
+overall,fraud_illuminating,mean,0.01
+overall,fraud_illuminating,min,0.0
+overall,fraud_illuminating,max,1.0
+overall,fraud_illuminating,std_dev,0.09
