@@ -1,0 +1,12 @@
+column,unique_count,most_frequent,most_freq_count
+id,27304,cc46051622b8a9c1b883a3bbf12c640b12ac1cbdc7f48a773b6cc2a65f03aa2d,1
+url,27304,f70a206472e9deaf6e313297c1efb891729ced346a0aeb34e16935d78f74b937,1
+source,14,Twitter Web App,14930
+createdAt,27014,2023-10-06 04:55:21,4
+lang,12,en,27281
+isReply,2,False,23930
+isRetweet,1,False,27304
+isQuote,2,False,24064
+isConversationControlled,2,False,27296
+month_year,15,2024-10,3586
+illuminating_scored_message,27136,36cb7d55fcf85362ca03f624c2f574f1f55f89db559b17da084df6e643afe5cd,21
